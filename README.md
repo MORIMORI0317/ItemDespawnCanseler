@@ -1,4 +1,3 @@
-#ItemDespawnCanseler
 ItemDespawnCanseler
 
 CuresForge
