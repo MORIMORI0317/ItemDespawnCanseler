@@ -1,0 +1,15 @@
+[
+{
+  "modid": "itemdespawncanseler",
+  "name": "Item Despawn Canseler",
+  "description": "",
+  "version": "1.0.0.0",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/itemdespawncanseler",
+  "updateUrl": "",
+  "authorList": ["MORIMORI0317"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
