@@ -1,28 +1,10 @@
-modLoader="javafml" 
-
-loaderVersion="[25,)" 
-
-issueTrackerURL="http://my.issue.tracker/"
-
-[[mods]] 
-
-modId="itemdespawncanseler" 
-
-version="1.0.0" 
-
-displayName="ItemDespawnCanseler" 
-
-updateJSONURL="http://myurl.me/" 
-
-displayURL="" 
-
-logoFile="itemdespawncanseler.png" 
-
-credits=""
-
+modLoader="javafml"
+loaderVersion="[32,)" 
+logoFile="logo.png" 
+[[mods]]
+modId="itemdespawncanseler"
+version="${file.jarVersion}" 
+displayName="Item Despawn Canseler"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/itemdespawncanseler" 
 authors="MORIMORI0317" 
-
-description='''
-Thank you for downloading!
-
-'''
+description="Thank you for downloading!"
