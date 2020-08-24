@@ -1,6 +1,7 @@
 modLoader="javafml"
-loaderVersion="[32,)" 
+loaderVersion="[33,)" 
 logoFile="logo.png" 
+license="LGPL v3"
 [[mods]]
 modId="itemdespawncanseler"
 version="${file.jarVersion}" 
